@@ -3,7 +3,7 @@
 * **`ECG_Analysis.m`** — compares dry vs. wet (gel) ECG leads, extracts beat‑level Signal Quality Indices (SQIs), and renders per‑subject and roll‑up figures.
 * **`main_EDA_Analysis.m`** — loads DC‑EDA (custom device) and BIOPAC EDA, aligns and cleans both, decomposes **SCL/SCR**, and computes validation metrics (corr/DTW/coherence, ΔZC).
 
-> The EDA workflow mirrors the study protocol and metrics from the mEDA validation paper; the ECG workflow summarizes the arm‑ECG dry‑electrode evaluation (silver‑knit vs. gold‑plated) and bioinstrumentation comparison.
+> The EDA workflow mirrors the study protocol and metrics from the mEDA validation paper; the ECG workflow summarizes the arm‑ECG dry‑electrode evaluation (silver‑knit vs. gold‑plated) and bioinstrumentation comparison from our ETextiles paper. Both papers are inside the folder titled "Papers_Signalprocessing steps"
 
 ---
 
